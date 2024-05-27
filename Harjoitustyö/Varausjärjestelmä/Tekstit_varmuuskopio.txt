@@ -1,0 +1,17 @@
+salit:
+numero, koko
+1,2
+2,2
+3,5
+
+elokuvat:
+nimi
+
+näytökset:
+sali, aika, nimi
+
+
+varaukset:
+nimi, sali, aika
+
+loppu
